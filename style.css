@@ -90,6 +90,7 @@ button:hover {
 
 .underline {
     text-decoration: underline;
+    text-transform: uppercase;
 }
 
 @media(max-width:572px) {
